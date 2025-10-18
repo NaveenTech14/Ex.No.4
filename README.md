@@ -1,6 +1,6 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE:   18.10.2025                                                                      
+### REGISTER NUMBER : 25014622
 ### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
 ### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
@@ -48,3 +48,66 @@ Prompt Size Limitations:
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
+
+Scenario and Use Case:
+
+Scenario:
+The manufacturing industry aims to reduce manual monitoring and increase efficiency through automation. IoT devices and embedded controllers are used to automate equipment, monitor performance, and enable predictive maintenance.
+
+Goal:
+To streamline production, minimize downtime, and enhance energy efficiency.
+
+Target Audience:
+Manufacturing companies in sectors such as automotive, electronics, and food processing.
+
+Main Objectives:
+
+Improve production efficiency by 30%.
+
+Minimize machinery downtime with predictive maintenance.
+
+Enable real-time monitoring and remote control of systems.
+
+Reduce energy consumption through optimized processes.
+
+Prompt Designs:
+1. Comparative Analysis Prompt
+
+Prompt:
+“Compare and contrast how traditional manufacturing differs from smart manufacturing that uses IoT and embedded systems in terms of efficiency, cost, and scalability.”
+
+Observation:
+AI tools like ChatGPT and Gemini provide detailed tabular comparisons, while Copilot focuses more on summary-level differences.
+
+2. Experiential Perspective Prompt
+
+Prompt:
+“As a production engineer, describe your experience using an IoT-based dashboard for predictive maintenance. How does it change your day-to-day workflow?”
+
+Observation:
+Gemini gives more narrative-style answers, while ChatGPT provides structured experiences with bullet points.
+
+3. Everyday Functioning Prompt
+
+Prompt:
+“Explain how IoT sensors in factories help detect temperature or vibration changes in machines during daily operation.”
+
+Observation:
+All AI tools performed similarly; ChatGPT and Claude gave the most coherent, student-friendly explanations.
+
+4. Universal Prompt Structure
+
+Prompt:
+“Explain the process of predictive maintenance in simple terms with an example from a smart manufacturing unit.”
+
+Observation:
+ChatGPT and Gemini both generated clear step-by-step answers. Claude provided real-life analogies improving simplicity.
+
+5. Prompt Size Limitation
+
+Prompt:
+“Summarize this 5000-word report on Industrial IoT into short 200-word summaries, in parts of 1000 words each.”
+
+Observation:
+ChatGPT handled chunking and continuity best, while Gemini slightly lost coherence between parts.
+
